@@ -14,3 +14,11 @@ $ cd simplefolio
 # Remove the current origin repository
 $ git remote remove origin
 ````
+to start the project using NPM: Simply run the below commands:
+```
+# Install dependencies
+$ npm install
+
+# Start the development server
+$ npm start
+```
