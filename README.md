@@ -5,7 +5,6 @@ Presentation page of various projects in JS
 ## How to use it:
 
 ````
-```
 # Clone the repository
 $ git clone https://github.com/cobidev/simplefolio
 
@@ -13,5 +12,5 @@ $ git clone https://github.com/cobidev/simplefolio
 $ cd simplefolio
 
 # Remove the current origin repository
-$ git remote remove origin```
+$ git remote remove origin
 ````
